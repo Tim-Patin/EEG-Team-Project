@@ -1,3 +1,7 @@
+Important thing to note: Inside of package.json, the scripts.start-server value should be changed to launch the python server.py using whatever python environment you use. The current one uses my conda environment "CMPSC445_2", so you can replace that with your own environment name, and it will work. If you don't use conda, then you will need to figure out how to run the python file with whatever method you use to run python files.
+
+Additionally, you will need to run "npm install" or "npm update" before running the app so you have the relevant node_modules installed.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
