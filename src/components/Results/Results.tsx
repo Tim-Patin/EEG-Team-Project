@@ -22,8 +22,3 @@ export default function Results(props: ResultsProps) {
         </div>);
     }
 }
-
-// <img src={props.images.unprocessedRaw} alt="unprocessedRaw"/>
-// <img src={props.images.unprocessedRawPSD} alt="unprocessedRawPSD"/>
-// <img src={props.images.processedRaw} alt="processedRaw"/>
-// <img src={props.images.processedRawPSD} alt="processedRawPSD"/>
