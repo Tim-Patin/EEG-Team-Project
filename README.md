@@ -49,5 +49,6 @@ Saved trained random forest classifier model
 
 ## Notes
 1) The SVM model must be created again. It is too large to be uploaded here
-2) data folder with two sample files: https://pennstateoffice365-my.sharepoint.com/:f:/r/personal/dar6078_psu_edu/Documents/data?csf=1&web=1&e=cPfzJt
-3) fresh data folder with two sample files: https://pennstateoffice365-my.sharepoint.com/:f:/r/personal/dar6078_psu_edu/Documents/fresh%20data?csf=1&web=1&e=EH5JIy
+2) The data folders are too large to be uploaded here
+3) data folder with two sample files: https://pennstateoffice365-my.sharepoint.com/:f:/r/personal/dar6078_psu_edu/Documents/data?csf=1&web=1&e=cPfzJt
+4) fresh data folder with two sample files: https://pennstateoffice365-my.sharepoint.com/:f:/r/personal/dar6078_psu_edu/Documents/fresh%20data?csf=1&web=1&e=EH5JIy
