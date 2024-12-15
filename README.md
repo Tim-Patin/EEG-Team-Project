@@ -1,8 +1,8 @@
 Prerequisites: 
 
-    Node Version Manager 
+* Node Version Manager 
 
-    Node.js 
+* Node.js 
 
 How to setup the web application: 
 
