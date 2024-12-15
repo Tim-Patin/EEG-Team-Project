@@ -1,10 +1,10 @@
-Prerequisites: 
+### Prerequisites: ###
 
 * Node Version Manager 
 
 * Node.js 
 
-How to setup the web application: 
+### How to setup the web application: ###
 
 Inside of “package.json” file in the project root, the “scripts.start-server” value should be changed to launch the python server.py using whatever python environment you use. The current one uses my conda environment "CMPSC445_2", so you can replace that with your own environment name, and it should work.  
 
@@ -14,7 +14,7 @@ Additionally, you will need to run "npm install" before running the app so you h
 
  
 
-Running the web application 
+### Running the web application ###
 
 Run the command “npm run dev” in a terminal at the root of the project.  
 
